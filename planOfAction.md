@@ -73,3 +73,24 @@
 <ul>
     <li>Weekly journal entry</li>
     <li>Complete todos identified in week 12</li>
+    <li>Prepare for week 13 peer code reviews</li>
+    <li>Code quality check</li>
+    <li>Review rubric to make sure I'm on target</li>
+</ul>
+<h2>Week 14</h2>
+<ul>
+    <li>Weekly journal entry</li>
+    <li>Create final presentation</li>
+</ul>
+<h2>Week 15</h2>
+<ul>
+    <li>Final Presentation</li>
+    <li>Create video</li>
+    <li>Finalize all documentation</li>
+    <li>Code quality check</li>
+</ul>
+<h2>Week 16</h2>
+<ul>
+    <li>Weekly journal entry</li>
+    <li>Final touches before code complete</li>
+</ul>
