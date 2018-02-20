@@ -1,4 +1,19 @@
+<h1>Project Plan</h1>
 
+
+<h2>Week 6</h2>
+<ul>
+    <li>Create db on AWS</li>
+    <li>Deploy to AWS for first time</li>
+    <li>Weekly journal entry</li>
+    <li>Create trail table</li>
+    <li>Add the trail entity (test, dev and prod dbs)</li>
+    <li>Realize that these daos are repetitive. Refactor into a generic dao!</li>
+    <li>Add update and delete functionality in jsp for user and role</li>
+    <li>Build the trail search jsp</li>
+    <li>Build the trail add/update/delete jsp</li>
+    <li>Prepare for Checkpoint 2: Database designed and created, at least one DAO implemented with Hibernate, DAO is unit tested, Log4J is implemented (no System.out.printlns), class design and any other diagrams you plan to use have been created.</li>
+</ul>
 <h2>Week 7</h2>
 <ul>
     <li>Weekly journal entry</li>
